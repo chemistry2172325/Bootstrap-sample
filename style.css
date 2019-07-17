@@ -1,0 +1,55 @@
+body{
+	background-color: lightblue;
+}
+
+
+.f1{
+	background-color: lightgreen;
+}
+
+textarea{
+	width: 300px;
+	height: 40px;
+	border-color: red;
+}
+
+.password{
+	width: 10%;
+	height: 20px;
+}
+
+
+#checkbox1{
+	width: 30%;
+	height: 40px;
+}
+
+#checkbox2{
+	width: 30%;
+	height: 40px;
+}
+
+
+#radio1{
+	width: 30%;
+	height: 40px;
+}
+
+.r2 input[type="radio"]{
+	width: 30%;
+	height: 40px;
+
+}
+
+.dropdown{
+	width: 30%;
+	height: 40px;
+}
+
+
+.ss input[type="submit"]{
+	color: green;
+	width: 10%;
+	height: 30px;
+	background-color: red;
+}
